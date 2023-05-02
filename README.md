@@ -35,6 +35,5 @@ npm start
 
 ## Screenshots
 
-![alt text](https://github.com/Vishnu-014/Apple-Music-App/blob/main/screenshots/IMG_5356.PNG)
-![alt text](https://github.com/Vishnu-014/Apple-Music-App/blob/main/screenshots/IMG_5357.PNG)
-![alt text](https://github.com/Vishnu-014/Apple-Music-App/blob/main/screenshots/IMG_5358.PNG)
+
+![](https://github.com/Vishnu-014/Apple-Music-App/blob/main/screenshots/IMG_5356.PNG | width=100)
