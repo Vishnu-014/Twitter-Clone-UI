@@ -36,4 +36,7 @@ npm start
 ## Screenshots
 
 
-![](https://github.com/Vishnu-014/Apple-Music-App/blob/main/screenshots/IMG_5356.PNG | width=100)
+![alt text](https://github.com/Vishnu-014/Twitter-Clone-UI/blob/main/screenshots/IMG_5421.PNG)
+![alt text](https://github.com/Vishnu-014/Twitter-Clone-UI/blob/main/screenshots/IMG_5422.PNG)
+![alt text](https://github.com/Vishnu-014/Twitter-Clone-UI/blob/main/screenshots/IMG_5423.PNG)
+![alt text](https://github.com/Vishnu-014/Twitter-Clone-UI/blob/main/screenshots/IMG_5424.PNG)
