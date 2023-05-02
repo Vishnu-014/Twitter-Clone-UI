@@ -1,0 +1,58 @@
+[
+  {
+    "id": "c1",
+    "tweetId": "m1",
+    "text": "Comment 1",
+    "isImage": "false",
+    "image": "https://www.xtrafondos.com/en/descargar.php?id=7994&resolucion=2560x1440",
+    "createdAt": "1d",
+    "profileImage": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
+    "user": {
+      "id": "cu1",
+      "name": "user",
+      "username": "@user"
+    }
+  },
+  {
+    "id": "c2",
+    "tweetId": "m3",
+    "text": "Comment 2",
+    "isImage": "false",
+    "image": "https://www.xtrafondos.com/en/descargar.php?id=7994&resolucion=2560x1440",
+    "createdAt": "1d",
+    "profileImage": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
+    "user": {
+      "id": "cu1",
+      "name": "user",
+      "username": "@user"
+    }
+  },
+  {
+    "id": "c3",
+    "tweetId": "m3",
+    "text": "Comment 3",
+    "isImage": "false",
+    "image": "https://www.xtrafondos.com/en/descargar.php?id=7994&resolucion=2560x1440",
+    "createdAt": "1d",
+    "profileImage": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
+    "user": {
+      "id": "cu1",
+      "name": "user",
+      "username": "@user"
+    }
+  },
+  {
+    "id": "c4",
+    "tweetId": "m3",
+    "text": "Comment 4",
+    "isImage": "false",
+    "image": "https://www.xtrafondos.com/en/descargar.php?id=7994&resolucion=2560x1440",
+    "createdAt": "1d",
+    "profileImage": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
+    "user": {
+      "id": "cu1",
+      "name": "user",
+      "username": "@user"
+    }
+  }
+]

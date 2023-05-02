@@ -1,0 +1,47 @@
+[
+  {
+    "id": "m1",
+    "text": "Just a few more months to go.",
+    "category": "foryou",
+    "isImage": "true",
+    "image": "https://www.xtrafondos.com/en/descargar.php?id=7994&resolucion=2560x1440",
+    "createdAt": "1d",
+    "profileImage": "https://static.zerochan.net/Jujutsu.Kaisen.full.3146297.jpg",
+    "coverImage": "https://c4.wallpaperflare.com/wallpaper/267/750/534/jujutsu-kaisen-anime-boys-hd-wallpaper-preview.jpg",
+    "user": {
+      "id": "u1",
+      "name": "Jujutsu Kaisen",
+      "username": "@Jujutsu_Kaisen_"
+    }
+  },
+  {
+    "id": "m2",
+    "text": "A new episode of Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc is streaming now",
+    "category": "foryou",
+    "isImage": "true",
+    "image": "https://wallpapercave.com/wp/wp11120212.jpg",
+    "createdAt": "12hr",
+    "profileImage": "https://www.thelostgamer.com/wp-content/uploads/2023/04/Danreve-Revez-800-×-1080-px-800-×-420-px-90.png",
+    "coverImage": "https://c4.wallpaperflare.com/wallpaper/904/315/827/anime-demon-slayer-kimetsu-no-yaiba-giyuu-tomioka-gyomei-himejima-kyojuro-rengoku-hd-wallpaper-preview.jpg",
+    "user": {
+      "id": "u2",
+      "name": "Deamon Slayer",
+      "username": "@kimetsu_off"
+    }
+  },
+  {
+    "id": "m3",
+    "text": "Meet QUEEN BEE, the Rock Band Behind Chainsaw Man's Episode 11 Ending Theme!",
+    "category": "foryou",
+    "isImage": "true",
+    "image": "https://images4.alphacoders.com/119/1193618.jpg",
+    "createdAt": "1hr",
+    "profileImage": "https://images.alphacoders.com/126/1261782.png",
+    "coverImage": "https://c4.wallpaperflare.com/wallpaper/133/784/936/chainsaw-man-himeno-chainsaw-man-denji-chainsaw-man-aki-chainsaw-man-power-chainsaw-man-hd-wallpaper-preview.jpg",
+    "user": {
+      "id": "u3",
+      "name": "Chainsaw Man",
+      "username": "@Chainsaw_EN"
+    }
+  }
+]
